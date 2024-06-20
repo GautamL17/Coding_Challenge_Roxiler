@@ -1,7 +1,7 @@
 # Coding_Challenge_Roxiler
 # TransactionDashboard
 
-TransactionDashboard is a comprehensive web application that provides detailed insights into financial transactions. The app includes various features like viewing all transactions, monthly dashboards, pie charts, bar charts, and combined charts. It supports CRUD operations and pagination for better data management and visualization.
+TransactionDashboard is a comprehensive web application that provides detailed insights into financial transactions. The app includes various features like viewing all transactions, monthly dashboards, pie charts, bar charts, and combined charts. 
 
 ## Table of Contents
 
